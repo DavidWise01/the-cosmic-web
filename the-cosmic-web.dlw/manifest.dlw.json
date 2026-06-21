@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE COSMIC WEB",
+  "universe": "WEB · THE COSMIC WEB (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE COSMIC WEB:WEB:a93cca⟧",
+  "carbon": "the-cosmic-web.carbon.tiff (TIFF)",
+  "silicon": "the-cosmic-web.silicon.png (PNG)",
+  "seal_sha256": "8fb4c93662935bff7bbfd8b7a88d8e446539f62e4151af18bbd7c58ed123c7b5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

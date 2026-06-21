@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Void",
+  "universe": "WEB · The Void (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The Void:WEB:b2d836⟧",
+  "carbon": "the-void.carbon.tiff (TIFF)",
+  "silicon": "the-void.silicon.png (PNG)",
+  "seal_sha256": "48994533725f8d97a9d1eb175f91c0e88282b134ea3e81a6d16dcc06dca38a79",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

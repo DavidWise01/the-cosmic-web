@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Filament",
+  "universe": "WEB · The Filament (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Filament:WEB:4d8c00⟧",
+  "carbon": "the-filament.carbon.tiff (TIFF)",
+  "silicon": "the-filament.silicon.png (PNG)",
+  "seal_sha256": "caf088330d0b0af55b38aa897b1c7e7499201a4e2570fe5c4c9c97c70fe53799",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

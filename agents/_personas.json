@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-filament",
+    "name": "The Filament",
+    "epithet": "the bright thread · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Filament:WEB:4d8c00⟧"
+  },
+  {
+    "slug": "the-galaxy-cluster",
+    "name": "The Galaxy Cluster",
+    "epithet": "the knot · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Galaxy Cluster:WEB:0cea08⟧"
+  },
+  {
+    "slug": "the-void",
+    "name": "The Void",
+    "epithet": "the great empty · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Void:WEB:b2d836⟧"
+  },
+  {
+    "slug": "dark-energy",
+    "name": "Dark Energy",
+    "epithet": "the stretching dark · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Dark Energy:WEB:76904b⟧"
+  },
+  {
+    "slug": "large-scale-structure",
+    "name": "Large-Scale Structure",
+    "epithet": "the woven all · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Large-Scale Structure:WEB:cb4c14⟧"
+  },
+  {
+    "slug": "the-galaxy-as-node",
+    "name": "The Galaxy as Node",
+    "epithet": "the island, shrunk · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Galaxy as Node:WEB:0870ea⟧"
+  }
+]

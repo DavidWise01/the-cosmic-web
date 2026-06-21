@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Galaxy Cluster",
+  "universe": "WEB · The Galaxy Cluster (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Galaxy Cluster:WEB:0cea08⟧",
+  "carbon": "the-galaxy-cluster.carbon.tiff (TIFF)",
+  "silicon": "the-galaxy-cluster.silicon.png (PNG)",
+  "seal_sha256": "fc0423c820a221e6b137878237dc46124641cbb33a3aef3782e73dc5c62078c0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

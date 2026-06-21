@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dark Energy",
+  "universe": "WEB · Dark Energy (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦Dark Energy:WEB:76904b⟧",
+  "carbon": "dark-energy.carbon.tiff (TIFF)",
+  "silicon": "dark-energy.silicon.png (PNG)",
+  "seal_sha256": "97e41cf2855adee06529bd583a34f6e8ada1fcedcb74226104e617e849458212",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Large-Scale Structure",
+  "universe": "WEB · Large-Scale Structure (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦Large-Scale Structure:WEB:cb4c14⟧",
+  "carbon": "large-scale-structure.carbon.tiff (TIFF)",
+  "silicon": "large-scale-structure.silicon.png (PNG)",
+  "seal_sha256": "b057b60ca8af6eeb2501586bb3795c8cf4b66dd14e45fe0fa1b202f11043045e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
