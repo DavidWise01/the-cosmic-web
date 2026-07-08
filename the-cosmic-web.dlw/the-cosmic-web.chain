@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 581
+slug  : the-cosmic-web
+seal  : 8fb4c93662935bff7bbfd8b7a88d8e446539f62e4151af18bbd7c58ed123c7b5
+prev  : 4ad7769e52d54e239329b1fdc11340f950b7bbdcec61889a0e6fcae84f7e7914
+link  : 3f000af3cac0fe02c2acbc3add0238086d8ad37d48ad3864f6a0358fc64d98d7
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
